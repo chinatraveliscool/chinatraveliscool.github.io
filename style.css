@@ -1,5 +1,5 @@
 body{ 
-    font-family:"Open Sans";
+    font-family:"Noto Sans";
     font-weight:10;
     color:#000000;
     margin: 0;
@@ -44,9 +44,15 @@ li a:hover {
 
 .header h1 {
     font-size: 50pt;
+    font-family: "Noto Sans Display";
+    font-weight: 500;
+    margin: 0;
 }
 
 .header h2 {
     font-size: 35pt;
+    font-family:"Noto Serif HK";
+    font-weight: 500;
+    margin: 0;
 }
   
