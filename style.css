@@ -1,12 +1,52 @@
-body{
-  
+body{ 
     font-family:"Open Sans";
-    
     font-weight:10;
-    
-    text-transform:none;
-    
-    color:#000000
+    color:#000000;
+    margin: 0;
+}
+
+li{
+    float:left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #DDD;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
   }
-  
+
+li a:hover {
+    background-color: #bd2626;
+    color: white;
+  }
+
+.active {
+    background-color: #7a1212;
+    color: white;
+}
+
+.header {
+    color: white
+}
+
+.header h1 {
+    font-size: 50pt;
+}
+
+.header h2 {
+    font-size: 35pt;
+}
   
