@@ -22,6 +22,6 @@ okay im done now u should totally check out the website
 
 wait acutally here is my favorite html tag
 totally not anotehr excuse to use block quotes
-><sup>this is superscript</sup>
+>oh wait u do the (sup) thing to do superscript like:<sup>this is superscript</sup>
 
 k im done fr now bye
