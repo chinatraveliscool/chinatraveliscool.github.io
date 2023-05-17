@@ -84,7 +84,7 @@
   
   - Fujian
   
-  - Fuzhou
+  - Yangshuo
   
   - Lijiang
   
@@ -114,13 +114,9 @@
   
   - Shenzhen is a modern metropolis in southern China, known for its high-tech industries, shopping, and entertainment. Visitors can explore the Window of the World, a theme park that features miniature replicas of famous landmarks from around the world. The city is also home to the Dafen Oil Painting Village, a vibrant community of artists who specialize in producing high-quality reproductions of famous paintings.
 
-- Fujian
+- Yangshuo
   
-  - Fujian is a southeastern Chinese province known for its mountains, tea plantations, and coastal cities. Visitors can explore the Wuyi Mountains, a UNESCO World Heritage Site that features stunning peaks, deep gorges, and ancient temples. The province is also home to the Hakka Tulou, a series of unique fortified earthen dwellings that date back to the 12th century and are a testament to the ingenuity of the Hakka people.
-
-- Fuzhou
-  
-  - Fuzhou is a coastal city in southeastern China, known for its historic temples, pagodas, and gardens. Visitors can explore the West Lake Park, a scenic park that features a serene lake, traditional Chinese pavilions, and a 9-story pagoda. The city is also home to the Sanfang Qixiang, a historic district that dates back to the Tang Dynasty and features traditional Fujianese architecture.
+  - Yanguo is a city located in the southwestern part of Guangxi Province, China. The city is renowned for its stunning natural scenery, including the majestic Maling River Canyon, which is considered one of the deepest canyons in Asia. Visitors can also explore the Yanguo National Forest Park, a vast expanse of lush greenery and tranquil waterfalls that offers an ideal getaway from the hustle and bustle of the city. In addition, Yanguo is home to several ancient towns that offer a glimpse into the region's rich cultural heritage, such as the charming and historic town of Bajiaozhai.
 
 - Lijiang
   
