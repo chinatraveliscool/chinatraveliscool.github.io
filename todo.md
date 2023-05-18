@@ -116,7 +116,7 @@
 
 - Yangshuo
   
-  - Yanguo is a city located in the southwestern part of Guangxi Province, China. The city is renowned for its stunning natural scenery, including the majestic Maling River Canyon, which is considered one of the deepest canyons in Asia. Visitors can also explore the Yanguo National Forest Park, a vast expanse of lush greenery and tranquil waterfalls that offers an ideal getaway from the hustle and bustle of the city. In addition, Yanguo is home to several ancient towns that offer a glimpse into the region's rich cultural heritage, such as the charming and historic town of Bajiaozhai.
+  - Yangshuo, located in Guangxi Province, China, is a popular destination that offers visitors a chance to experience the natural beauty of the region. One of the highlights of the area is the Yanguo National Forest Park, which boasts stunning karst mountains, lush greenery, and the winding Li River. Visitors can explore the park's many trails, take a boat tour down the river, or simply soak up the breathtaking scenery that surrounds them.
 
 - Lijiang
   
