@@ -130,6 +130,46 @@
   
   - Jiaozhou is a coastal city in northeastern China, known for its scenic beaches, seafood, and historic sites. Visitors can explore the Zhanqiao Pier, a 100-year-old pier that offers stunning views of the Yellow Sea and the city skyline. The city is also home to the Laoshan Scenic Area, a picturesque mountain range that is known for its Taoist temples and natural beauty.
 
+**Attractions**
+
+- Basically just Destinations, but with the attrractions from these destinations
+
+- Great Wall of China, Beijing
+  
+  - The Great Wall of China is a must-visit destination when in Beijing. The wall stretches over 13,000 miles and offers stunning views of the surrounding mountains. Visitors can hike along the wall and explore the watchtowers and fortresses that were used to defend against invaders.
+
+- The Bund, Shanghai
+  
+  - The Bund is a waterfront promenade in Shanghai that offers breathtaking views of the city skyline. Visitors can stroll along the river and admire the colonial-era buildings that line the street. At night, the buildings are illuminated, creating a magical atmosphere.
+
+- Chen Clan Ancestral Hall, Guangzhou
+  
+  - The Chen Clan Ancestral Hall is a beautiful historic building that showcases traditional Cantonesearchitecture. The hall was built in the late 19th century and has been well-preserved. Visitors can see intricate carvings and decorations, as well as exhibits on traditional arts and crafts.
+
+- Window of the World, Shenzhen
+  
+  - Window of the World is a theme park in Shenzhen that features miniature replicas of famous landmarks from around the world. Visitors can see the Eiffel Tower, the Pyramidsof Egypt, and the Taj Mahal all in one place. The park also offers cultural performances, such as acrobatic shows and traditional dances.
+
+- Wuyi Mountains, Fujian
+  
+  - The Wuyi Mountains are a scenic mountain range in Fujian province that is renowned for its natural beauty. Visitors can hike along trails that wind through the mountains, passing by waterfalls and hot springs. The area is also known for its tea production, and visitors can sample local teas.
+
+- Yanguo National Forest Park, Yangshuo
+  
+  - Yanguo National Forest Park is a picturesque park located in Yangshuo, Guangxi province. The park features karst mountains, caves, and waterfalls, as well as a variety of flora and fauna. Visitors can explore the park by hiking or taking a boat tour along the Yulong River.
+
+- Old Town of Lijiang, Lijiang
+  
+  - The Old Town of Lijiang is a UNESCO World Heritage Site that is known for its well-preserved traditional architecture and narrow alleyways. Visitors can explore temples, markets, and museums, and sample local Naxi cuisine. The town is also a hub for traditional music and dance performances.
+
+- Dazu Rock Carvings, Chongqing
+  
+  - The Dazu Rock Carvings are a collection of over 50,000 stone carvings that date back to the Tang and Song dynasties. The carvings depict Buddhist and Confucian themes, as well as scenes from daily life. Visitors can see intricate details and learn about the history and significance of the carvings.
+
+- Zhanqiao Pier, Jiaozhou
+  
+  - Zhanqiao Pier is a historic landmark in Jiaozhou, Shandong province. The pier was built in the early 20th century and features a distinctive pagoda-style pavilion. Visitors can stroll along the pier and enjoy the sea breeze, as well as see a statue of the famous poet, Li Qingzhao.
+
 **Events**
 
 - SImilar to "3 Big Tourist Destinations" on Home but 6
