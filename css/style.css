@@ -9920,6 +9920,14 @@ h5 + .list-popular-product {
 	font-weight: 500;
 	letter-spacing: normal;
 	font-size: 21px;
+	margin: 5px;
+}
+.product-small-title {
+	font-weight: 300;
+	letter-spacing: normal;
+	font-size: 15px;
+	margin: 5px;
+	color: grey;
 }
 
 .product-big-rating .icon {
