@@ -1,4 +1,4 @@
-**Edit June 2024:** *Site is not hosted thru Github due to registar for discoverchina.me expriring
+**Edit June 2024:** *Site is not hosted thru Github due to registar for discoverchina.me expriring*
 
 ### Pages to Add
 
